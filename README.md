@@ -19,8 +19,8 @@ While simple, this project demonstrates fundamental programming concepts includi
 ---
 ## 🎮 Gameplay
 
-![Gameplay]
 <img width="437" height="258" alt="image" src="https://github.com/user-attachments/assets/02df014d-9f43-4092-86f7-4562bd6c032d" />
+
 <img width="432" height="338" alt="image" src="https://github.com/user-attachments/assets/cb8b51e0-7dba-4122-bd1c-87b18f7795ab" />
 
 ---
