@@ -110,16 +110,6 @@ This project helped me practice:
 
 ---
 
-## 🔮 Future Improvements
-
-- Difficulty levels
-- Attempt counter
-- Play again feature
-- High score system
-- Code refactoring using functions
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
